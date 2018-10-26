@@ -1,2 +1,0 @@
-# RealtyExample
-Created with CodeSandbox

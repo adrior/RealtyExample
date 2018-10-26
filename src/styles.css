@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+.Flat {
+  width: 200px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 3px 8px 0 rgba(0, 40, 100, 0.1),
+    0 1px 1px 0 rgba(0, 0, 50, 0.05);
+  margin-bottom: 20px;
+}
+
+.Flat__info {
+  padding: 6px 12px 20px;
+  font-size: 13px;
+}
+
+.Flat__params {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.Flat__price {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.Flat__photo {
+  height: 120px;
+}

@@ -1,4 +1,4 @@
-fetch("/data.json")
+fetch("/data-3.json")
   .then(response => response.json())
   .then(json => {
     let html = renderFlats(json);
@@ -15,17 +15,33 @@ function renderFlats(data) {
     .map(
       flat => `
           <div class="Flat">
-            <div class="Flat__photo" style="background-image: url(${
-              flat.images[0]
-            })"></div>
+            <div class="Flat__images">
+            ${flat.images
+              .map(
+                img => `
+                <div class="Flat__photo" style="background-image: url(${img})"></div>
+              `
+              )
+              .join("")}
+            </div>
             <div class="Flat__info">
-              <div class="Flat__price">${(flat.price * 1e6).toLocaleString(
-                "RU-ru"
-              )} ₽</div>
-              <div class="Flat__params">${
-                isNaN(flat.rooms * 1) ? flat.rooms : flat.rooms + "-к"
-              }, ${flat.area} м²</div>
-              <div class="Flat__address">${flat.address}</div>
+              <div class="Flat__infoCols">
+                <div class="Flat__priceInfo">
+                  <div class="Flat__price">${(flat.price * 1e6).toLocaleString(
+                    "RU-ru"
+                  )} ₽</div>
+                  <div class="Flat__pricePerMeter">${Math.round(
+                    (flat.price * 1e6) / flat.area
+                  ).toLocaleString("RU-ru")} ₽ за м²</div>
+                </div>
+                <div class="Flat__about">
+                  <div class="Flat__params">${
+                    isNaN(flat.rooms * 1) ? flat.rooms : flat.rooms + "-к"
+                  }, ${flat.area} м²</div>
+                  <div class="Flat__address">${flat.address}</div>
+                </div>
+              </div>
+              <div class="Flat__descr">${flat.description}</div>
             </div>
           </div>
       `

@@ -1,38 +1,79 @@
 body {
   font-family: sans-serif;
+  background: linear-gradient(#b4ec51, #429321);
+}
+
+:root {
+  --text-l: 24px;
 }
 
 .FlatsList {
-  display: flex;
   flex-wrap: wrap;
+  padding: 20px 0;
 }
 
 .Flat {
-  width: 200px;
+  background: #fff;
+  max-width: 500px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 3px 8px 0 rgba(0, 40, 100, 0.1),
     0 1px 1px 0 rgba(0, 0, 50, 0.05);
+  margin: auto;
   margin-bottom: 20px;
-  margin-right: 20px;
 }
 
 .Flat__info {
-  padding: 6px 12px 20px;
+  padding: 12px 20px 30px;
   font-size: 13px;
+}
+
+.Flat__infoCols {
+  display: flex;
+}
+
+.Flat__params::first-letter {
+  text-transform: uppercase;
+}
+
+.Flat__descr {
+  color: #999;
+  font-size: 10px;
+  margin-top: 10px;
 }
 
 .Flat__params {
   font-weight: bold;
   margin-bottom: 4px;
+  font-size: var(--text-l);
+}
+
+.Flat__priceInfo {
+  order: 2;
+  text-align: right;
+}
+
+.Flat__about {
+  flex-grow: 1;
+  margin-right: 10px;
 }
 
 .Flat__price {
-  font-size: 24px;
+  font-size: var(--text-l);
   font-weight: bold;
-  margin-bottom: 6px;
+  margin-bottom: 2px;
+}
+
+.Flat__images {
+  display: flex;
 }
 
 .Flat__photo {
-  height: 120px;
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.Flat__photo + .Flat__photo {
+  margin-left: 1px;
 }

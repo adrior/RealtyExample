@@ -1,0 +1,393 @@
+[
+    {
+        "address": "Улица Вавилова, 81к1",
+        "price": 42.9,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1244288/offer.8358006500018469088.2440253864499452853/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1385959/offer.8358006500018469088.936651354571657961/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1379807/offer.8358006500018469088.7182014244828984346/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1375430/offer.8358006500018469088.8986933241965853587/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1427247/offer.8358006500018469088.5023283071452398348/app_snippet_small"
+        ],
+        "area": 128,
+        "rooms": "5",
+        "building": "2011 г., 5 этаж из 13",
+        "location": "Университет 17 мин.\n",
+        "description": "Светлая квартира с дизайнерским ремонтом, отделана в бельгийском стиле. Охраняемая территория, детские площадки, окна выходят во двор. Индивидуальная заказная мебель ручной работы Италия (остается по договоренности). Высокие потолки 3,1м. В",
+        "morgage": "Ипотека, торг"
+    },
+    {
+        "address": "Улица Ефремова, 10с1к4/2",
+        "price": 125,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1511332/add.1540389400570a562c47580/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/936063/add.1539600901394627f55a1be/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1507155/add.15396008995072a692dcc36/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509194/add.15396009014644043e10a3d/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/470995/add.15396009013018ee929fa41/app_snippet_small"
+        ],
+        "area": 115,
+        "rooms": "4",
+        "building": "2014 г., Микрорайон «Садовые Кварталы», 8 этаж из 12",
+        "location": "Фрунзенская 7 мин.\n",
+        "description": "ЖК Садовые кварталы. Проект архитектурной мастерской Сергей Скуратов Architects. Трёхсекционный 12-этажный жилой корпус на 81 квартиру. Первый и второй этажи занимают офисные помещения, а так же помещение детского сада. На третьем этаже и выше",
+        "morgage": "Торг"
+    },
+    {
+        "address": "Погодинская улица, 4",
+        "price": 76.54,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1385959/offer.2430168733864748615.8138857556176951222/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/988878/offer.2430168763866075003.1651323426819891319/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/936537/offer.2430168763837438164.3949980109963729882/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1021501/offer.2430168763837438164.673539841319504956/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1021501/offer.2430168763866101911.5266897195871313264/app_snippet_small"
+        ],
+        "area": 120,
+        "rooms": "2",
+        "building": "2014 г., ЖК «Grand Deluxe на Плющихе», 3 этаж из 10",
+        "location": "Фрунзенская 15 мин.\n",
+        "description": "Просторная 2-комн. квартира в ЖК \"Grand Deluxe на Плющихе\" на 3 этаже в 10-этажном подъезде. Общая площадь: 120 кв.м., жилая: 47 кв.м., площадь просторной кухни: 30.2 кв.м. В квартире два совмещенных и один раздельный санузел. Высота потолков 3.20 м.",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Улица Доватора, 14",
+        "price": 18.8,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1393958/add.15402126339169413b2e79c/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1542812/add.1540212624691cb142aa4c8/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509050/add.1540212634192ca3ddbdc63/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1391468/add.1540212629832627d016e33/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1469700/add.15402126330662936372e4e/app_snippet_small"
+        ],
+        "area": 66,
+        "rooms": "3",
+        "building": "1928 г., 1 этаж из 5",
+        "location": "Спортивная 3 мин.\n",
+        "description": "Продаётся 3-х комнатная квартира в лучшем районе Москвы. Тихий двор, въезд под шлагбаум. В квартире выполнен ремонт, перепланировка узаконена. Комнаты смежные, возможно изолировать . 2 с/у. 2 взрослых собственника. Свободная продажа. Быстрый выход на",
+        "morgage": "Ипотека, торг"
+    },
+    {
+        "address": "Малая Пироговская улица, 8",
+        "price": 76.85,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/878469/offer.6221826481421186350.2676522975086373794/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.2430168763865119769.9061337877242863669/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1355369/offer.2430168763867951836.8148126399219852599/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/403262/offer.6221826481421186350.1948826451811462555/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/935336/offer.2430168762207512972.4911708402442519095/app_snippet_small"
+        ],
+        "area": 111,
+        "rooms": "2",
+        "building": "2015 г., ЖК «BARRIN HOUSE», 7 этаж из 8",
+        "location": "Спортивная 12 мин.\n",
+        "description": "Живите сейчас! 1-ый взнос 10%! Звоните, мы вам все подробно расскажем! Продается 2-комн. квартира в ЖК \"Barrin House\" на 7 этаже в 8-этажном подъезде. Общая площадь: 111 кв.м., жилая: 48.6 кв.м., площадь просторной кухни: 19.4 кв.м. В квартире одна",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Посёлок Погодинский",
+        "price": 69.48,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.2430168763865267758.4555886914599090273/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1245186/offer.6221826481421155509.1471660831662004506/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184178.730446201763920076/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184181.3670654669162822629/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1361648/offer.2430168741791145813.1456953197058280601/app_snippet_small"
+        ],
+        "area": 99,
+        "rooms": "2",
+        "building": "Новостройка, ЖК «ЖИЗНЬ на Плющихе», 8 этаж из 13",
+        "location": "Фрунзенская 14 мин.\n",
+        "description": "Все, что нужно для жизни - Старт продаж квартир с отделкой! Звоните, мы вам все подробно расскажем! Двухкомнатная квартира в ЖК \"Жизнь на Плющихе\" на 8 этаже в 13-этажном подъезде. Общая площадь: 99 кв.м., жилая: 43.4 кв.м., площадь просторной кухни:",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Малая Пироговская улица, 8",
+        "price": 58.85,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1020830/offer.6221826481421186103.3013940669553677741/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.2430168763865119769.9061337877242863669/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1355369/offer.2430168763867951836.8148126399219852599/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/929706/offer.6221826481421186103.1948826451811462555/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/935336/offer.2430168762207512972.4911708402442519095/app_snippet_small"
+        ],
+        "area": 115,
+        "rooms": "2",
+        "building": "2015 г., ЖК «BARRIN HOUSE», 3 этаж из 12",
+        "location": "Спортивная 12 мин.\n",
+        "description": "Живите сейчас! 1-ый взнос 10%! Звоните, мы вам все подробно расскажем! Продается двухкомнатная квартира от застройщика с отделкой в ЖК \"Barrin House\" на 3 этаже. Общая площадь: 115 кв.м., жилая: 49.2 кв.м., площадь просторной кухни: 19.3 кв.м. В",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Малая Пироговская улица, 8",
+        "price": 72.52,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1213665/offer.6221826481421183283.4739400136917265973/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.2430168763865119769.9061337877242863669/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1355369/offer.2430168763867951836.8148126399219852599/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/953680/offer.6221826481421183283.1948826451811462555/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/935336/offer.2430168762207512972.4911708402442519095/app_snippet_small"
+        ],
+        "area": 112,
+        "rooms": "2",
+        "building": "2015 г., ЖК «BARRIN HOUSE», 10 этаж из 12",
+        "location": "Спортивная 12 мин.\n",
+        "description": "Живите сейчас! 1-ый взнос 10%! Звоните, мы вам все подробно расскажем! Просторная 2-комн. квартира в ЖК \"Barrin House\" на 10 этаже. Общая площадь: 112 кв.м., жилая: 45 кв.м., площадь просторной кухни: 19.3 кв.м. В квартире одна лоджия, один",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Посёлок Погодинский",
+        "price": 123.34,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.2430168763865267758.4555886914599090273/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/961426/offer.6221826481421155416.568953297290614570/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184178.730446201763920076/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184181.3670654669162822629/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1361648/offer.2430168741791145813.1456953197058280601/app_snippet_small"
+        ],
+        "area": 179,
+        "rooms": "4",
+        "building": "Новостройка, ЖК «ЖИЗНЬ на Плющихе», 3 этаж из 8",
+        "location": "Фрунзенская 14 мин.\n",
+        "description": "Все, что нужно для жизни - Старт продаж квартир с отделкой! Звоните, мы вам все подробно расскажем! 4-комн. квартира от застройщика в ЖК \"Жизнь на Плющихе\" на 3 этаже в 8-этажном подъезде. Общая площадь: 179 кв.м., жилая: 92.7 кв.м., площадь",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Малая Пироговская улица, 8",
+        "price": 70.14,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1108228/offer.6221826481421184394.4926094969885860888/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.2430168763865119769.9061337877242863669/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1355369/offer.2430168763867951836.8148126399219852599/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1245186/offer.6221826481421184394.1948826451811462555/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/935336/offer.2430168762207512972.4911708402442519095/app_snippet_small"
+        ],
+        "area": 100,
+        "rooms": "2",
+        "building": "2015 г., ЖК «BARRIN HOUSE», 7 этаж из 7",
+        "location": "Спортивная 12 мин.\n",
+        "description": "Живите сейчас! 1-ый взнос 10%! Звоните, мы вам все подробно расскажем! Продается 2-комн. квартира в ЖК \"Barrin House\" на 7 этаже. Общая площадь: 100 кв.м., жилая: 43.3 кв.м., площадь просторной кухни: 18.7 кв.м. В квартире одна лоджия, один",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Малая Пироговская улица, 8",
+        "price": 74.22,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/936537/offer.6221826481421186287.7647469214786593068/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.2430168763865119769.9061337877242863669/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1355369/offer.2430168763867951836.8148126399219852599/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/909350/offer.6221826481421186287.1948826451811462555/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/935336/offer.2430168762207512972.4911708402442519095/app_snippet_small"
+        ],
+        "area": 105,
+        "rooms": "2",
+        "building": "2015 г., ЖК «BARRIN HOUSE», 7 этаж из 7",
+        "location": "Спортивная 12 мин.\n",
+        "description": "Живите сейчас! 1-ый взнос 10%! Звоните, мы вам все подробно расскажем! Просторная 2-комн. квартира в ЖК \"Barrin House\" на 7 этаже. Общая площадь: 105 кв.м., жилая: 44 кв.м., площадь просторной кухни: 17 кв.м. В квартире одна лоджия, один совмещенный",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Посёлок Погодинский",
+        "price": 68.3,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.2430168763865267758.4555886914599090273/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1021501/offer.6221826481421155383.6095436080247679918/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184178.730446201763920076/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184181.3670654669162822629/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1361648/offer.2430168741791145813.1456953197058280601/app_snippet_small"
+        ],
+        "area": 102,
+        "rooms": "2",
+        "building": "Новостройка, ЖК «ЖИЗНЬ на Плющихе», 5 этаж из 11",
+        "location": "Фрунзенская 14 мин.\n",
+        "description": "Все, что нужно для жизни - Старт продаж квартир с отделкой! Звоните, мы вам все подробно расскажем! Продается двухкомнатная квартира в ЖК \"Жизнь на Плющихе\" на 5 этаже в 11-этажном подъезде. Общая площадь: 102 кв.м., жилая: 49.6 кв.м., площадь",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Трубецкая улица, 10",
+        "price": 192.97,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/475683/offer.9104021188183389281.858649972050640216/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219161/offer.9104021188183389281.8168104167706498425/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.9104021188183389281.1632499372646988932/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/901746/offer.9104021188183389281.858649922352281122/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/906742/offer.9104021188183389281.8168104167705574904/app_snippet_small"
+        ],
+        "area": 147,
+        "rooms": "3",
+        "building": "Дом на Трубецкой, 10 этаж из 12",
+        "location": "Фрунзенская 7 мин.\n",
+        "description": "Лот №64936 Квартира без отделки площадью 147 кв.м.. Расположена на 10 этаже нового жилого комплекса Дом на Трубецкой. Дом построен в самом современном стиле. Главное здание дома имеет в высоту 12 этажей. К этому зданию с обеих сторон примыкают два по",
+        "morgage": ""
+    },
+    {
+        "address": "Малая Пироговская улица, 8",
+        "price": 129.9,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/941520/offer.9104021188183321850.5495085723427268754/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1401210/offer.9104021188183321850.5495085723428192275/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509594/offer.9104021188183321850.5495085723426345233/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1469700/offer.9104021188183321850.5495085723429115796/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/227309/offer.9104021188183321850.5495085723425421712/app_snippet_small"
+        ],
+        "area": 180,
+        "rooms": "6",
+        "building": "ЖК «BARRIN HOUSE», 6 этаж из 12",
+        "location": "Спортивная 12 мин.\n",
+        "description": "Лот №65977 Шестикомнатная квартира с новой отделкой в современном стиле площадью 180,5 кв.м. Расположена на 6 этаже ЖК Barrin House. Пространство спланировано как: кухня-гостиная, 4 спальни, кабинет, 3 ванные комнаты, 2 гардеробные, постирочная,",
+        "morgage": ""
+    },
+    {
+        "address": "Посёлок Погодинский",
+        "price": 176.26,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.2430168763865267758.4555886914599090273/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/758086/offer.2430168736408123531.287273803108270909/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184178.730446201763920076/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184181.3670654669162822629/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1361648/offer.2430168741791145813.1456953197058280601/app_snippet_small"
+        ],
+        "area": 218,
+        "rooms": "5",
+        "building": "Новостройка, ЖК «ЖИЗНЬ на Плющихе», 9 этаж из 13",
+        "location": "Фрунзенская 14 мин.\n",
+        "description": "Все, что нужно для жизни - Старт продаж квартир с отделкой! Звоните, мы вам все подробно расскажем! 5-комн. квартира от застройщика в ЖК \"Жизнь на Плющихе\" на 9 этаже в 13-этажном подъезде. Общая площадь: 218 кв.м., жилая: 123.5 кв.м., площадь",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Погодинская улица, 4",
+        "price": 210.03,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1219161/offer.9104021188183322752.4069091280324341101/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/941841/offer.9104021188183322752.8743025625986528108/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1380291/offer.9104021188183322752.8743025598474837518/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1375430/offer.9104021188183322752.8743025570986234953/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1245957/offer.9104021188183322752.8743025543472697321/app_snippet_small"
+        ],
+        "area": 309,
+        "rooms": "5",
+        "building": "ЖК «Grand Deluxe на Плющихе», 8 этаж из 8",
+        "location": "Фрунзенская 15 мин.\n",
+        "description": "Лот №65894 Уникальный панорамный пентхаус с террасой на три стороны света в самом престижном районе Москвы - Хамовниках! Расположен на 8 этаже жилого комплекса премиум-класса \"Grand Deluxe на Плющихе\". Свободная планировка позволяет на 229,3 кв.",
+        "morgage": ""
+    },
+    {
+        "address": "2-я Фрунзенская улица, 8",
+        "price": 169,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/402387/offer.9104021188183415221.1262552380603936704/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1365917/offer.9104021188183415221.5239020374371450128/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/402387/offer.9104021188183415221.5239020374402849842/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1487183/offer.9104021188183415221.5239020374395461674/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/475683/offer.9104021188183415221.5239020374372373649/app_snippet_small"
+        ],
+        "area": 160,
+        "rooms": "4",
+        "building": "ЖК «Андреевский», 2 этаж из 10",
+        "location": "Фрунзенская 8 мин.\n",
+        "description": "Лот №62528 Предлагается к продаже квартира площадью 160 квадратных метров на 2 этаже жилого комплекса Андреевский. Без отделки, свободная планировка, высокие потолки. На подземном паркинге возможно приобретение 2 м/м. Андреевский представляет собой",
+        "morgage": ""
+    },
+    {
+        "address": "Посёлок Погодинский",
+        "price": 84.95,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.2430168763865267758.4555886914599090273/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1218943/offer.6221826481421155562.9074940491476673142/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184178.730446201763920076/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184181.3670654669162822629/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1361648/offer.2430168741791145813.1456953197058280601/app_snippet_small"
+        ],
+        "area": 142,
+        "rooms": "3",
+        "building": "Новостройка, ЖК «ЖИЗНЬ на Плющихе», 2 этаж из 11",
+        "location": "Фрунзенская 14 мин.\n",
+        "description": "Все, что нужно для жизни - Старт продаж квартир с отделкой! Звоните, мы вам все подробно расскажем! Продается трехкомнатная квартира в ЖК \"Жизнь на Плющихе\" на 2 этаже в 11-этажном подъезде. Общая площадь: 142 кв.м., жилая: 65.3 кв.м., площадь",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "2-я Фрунзенская улица, 8",
+        "price": 202.15,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1245834/offer.9104021188183354623.2530902616901524115/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/908777/offer.9104021188183354623.3255877973968505368/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/936537/offer.9104021188183354623.3230469497072100537/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/908777/offer.9104021188183354623.3179652543279290875/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/475685/offer.9104021188183354623.3154244066382886044/app_snippet_small"
+        ],
+        "area": 173,
+        "rooms": "4",
+        "building": "ЖК «Андреевский», 7 этаж из 12",
+        "location": "Фрунзенская 8 мин.\n",
+        "description": "Лот №64641 Предлагается к продаже 4-х комнатная квартира без отделки, площадью 171,6 кв.м. Расположена на 7 этаже ЖК \"Андреевский\". Пространство можно спланировать как: кухня-гостиная, 2-3 спальни, гардеробную, 3 ванные комнаты и постирочную. Высота",
+        "morgage": ""
+    },
+    {
+        "address": "Погодинская улица, 4",
+        "price": 77.81,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/215758/offer.6221826481421187098.6852825817851820820/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/988878/offer.2430168763866075003.1651323426819891319/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/936537/offer.2430168763837438164.3949980109963729882/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/895985/offer.6221826481421187098.673539841319504956/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1108228/offer.6221826481421187098.5266897195871313264/app_snippet_small"
+        ],
+        "area": 117,
+        "rooms": "2",
+        "building": "2014 г., ЖК «Grand Deluxe на Плющихе», 6 этаж из 9",
+        "location": "Фрунзенская 15 мин.\n",
+        "description": "Продается 2-комн. квартира в ЖК \"Grand Deluxe на Плющихе\" на 6 этаже в 9-этажном подъезде. Общая площадь: 117 кв.м., жилая: 43.6 кв.м., площадь просторной кухни: 27.1 кв.м. В квартире одна лоджия, два совмещенных и один раздельный санузел. Высота",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Посёлок Погодинский",
+        "price": 211.8,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.2430168763865267758.4555886914599090273/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219161/offer.2430168734604485093.1472260896714042839/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184178.730446201763920076/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1369766/offer.6221826481421184181.3670654669162822629/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1361648/offer.2430168741791145813.1456953197058280601/app_snippet_small"
+        ],
+        "area": 251,
+        "rooms": "6",
+        "building": "Новостройка, ЖК «ЖИЗНЬ на Плющихе», 10 этаж из 13",
+        "location": "Фрунзенская 14 мин.\n",
+        "description": "Все, что нужно для жизни - Старт продаж квартир с отделкой! Звоните, мы вам все подробно расскажем! 6-комн. квартира в ЖК \"Жизнь на Плющихе\" на 10 этаже в 13-этажном подъезде. Общая площадь: 251 кв.м., жилая: 138.6 кв.м., площадь просторной кухни:",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Погодинская улица, 4",
+        "price": 70.75,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/471005/offer.2430168733864749576.8797141172510185219/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/988878/offer.2430168763866075003.1651323426819891319/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/936537/offer.2430168763837438164.3949980109963729882/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1021501/offer.2430168763837438164.673539841319504956/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1021501/offer.2430168763866101911.5266897195871313264/app_snippet_small"
+        ],
+        "area": 119,
+        "rooms": "2",
+        "building": "2014 г., ЖК «Grand Deluxe на Плющихе», 3 этаж из 7",
+        "location": "Фрунзенская 15 мин.\n",
+        "description": "Продается 2-комн. квартира в ЖК \"Grand Deluxe на Плющихе\" на 3 этаже в 7-этажном подъезде. Общая площадь: 119 кв.м., жилая: 47 кв.м., площадь просторной кухни: 30.2 кв.м. В квартире один балкон, два совмещенных и один раздельный санузел. Высота",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Погодинская улица, 4",
+        "price": 78.79,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1379688/offer.6221826481421157276.7636982319973427644/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/988878/offer.2430168763866075003.1651323426819891319/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/936537/offer.2430168763837438164.3949980109963729882/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1337539/offer.6221826481421157276.673539841319504956/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/939508/offer.6221826481421157276.5266897195871313264/app_snippet_small"
+        ],
+        "area": 116,
+        "rooms": "2",
+        "building": "2014 г., ЖК «Grand Deluxe на Плющихе», 2 этаж из 9",
+        "location": "Фрунзенская 15 мин.\n",
+        "description": "Двухкомнатная квартира в ЖК \"Grand Deluxe на Плющихе\" на 2 этаже в 9-этажном подъезде. Общая площадь: 116 кв.м., жилая: 49.1 кв.м., площадь просторной кухни: 17.3 кв.м. В квартире две лоджии, два совмещенных и один раздельный санузел. Высота потолков",
+        "morgage": "Ипотека"
+    }
+]

@@ -1,0 +1,341 @@
+[
+    {
+        "address": "Профсоюзная улица, 24к3",
+        "price": 23,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1356967/add.15406375295285c6974d135/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/402387/add.1540637534948de3761dacc/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1519320/add.15406375409042e2e6dc05d/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1101375/add.15406375492615d03912730/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1632446/add.15406375597827996d05f29/app_snippet_small"
+        ],
+        "area": 84,
+        "rooms": "3",
+        "building": "1957 г., 2 этаж из 5",
+        "location": "Университет 14 мин.\n",
+        "description": "Кирпичный дом.Квартира просто сказка-все сделано для себя и с любовью.Продается со всей мебелью и техникой.В квартире выполнен качественный ЕВРО ремонт с использованием экологически чистых материалов .Мебель и техника от ведущих",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Комсомольский проспект, 42с3",
+        "price": 20.7,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1632446/offer.5154723598271470536.1034054639339865935/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1327161/offer.5154723598271470536.4947188619490710824/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1486007/offer.5154723598271470536.3002690762841529792/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1245834/offer.5154723598271470536.3931974042779872337/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1405199/offer.5154723598271470536.521308564509809145/app_snippet_small"
+        ],
+        "area": 44,
+        "rooms": "1",
+        "building": "6 этаж",
+        "location": "Спортивная 8 мин.\n",
+        "description": "Двухуровневый апартамент с великолепным ремонтом в ЖК Clerkenwell House. Интерьер выдержан в светлых тонах. Апартамент полностью меблирован и готов к проживанию. На первом этаже расположены кухня-гостиная и ванная комната, на втором уютная спальня.",
+        "morgage": ""
+    },
+    {
+        "address": "Улица Вавилова, 60к1",
+        "price": 16.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/402387/add.1540570890120fbef652dd5/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1519290/add.1540570889483d63d366bf6/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1542812/add.15405708899883f0ad6290c/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1486007/add.154057088952795753208a1/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1516922/add.15405708896328af043b026/app_snippet_small"
+        ],
+        "area": 77,
+        "rooms": "3",
+        "building": "1957 г., 4 этаж из 5",
+        "location": "Университет 11 мин.\n",
+        "description": "Продается просторная светлая трехкомнатная квартира в кирпичном сталинском доме в одном из самых лучших районов Москвы. Рядом две ст метро: Профсоюзная и Университет. Чистый, украшенный цветами подъезд с широкими лестничными пролетами, высокие",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Комсомольский проспект, 25к1",
+        "price": 15.9,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1348547/offer.3431799009481083491.8053567508770129224/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/402387/offer.3431799009481083491.8053567508760894014/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219256/offer.3431799009481083491.8053567508769205703/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/402387/offer.3431799009481083491.8053567508759046972/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1572784/offer.3431799009481083491.8053567508759970493/app_snippet_small"
+        ],
+        "area": 54,
+        "rooms": "3",
+        "building": "1960 г., 2 этаж из 8",
+        "location": "Фрунзенская 3 мин.\n",
+        "description": "Лот: 91003473. ПОЛНОЕ СОПРОВОЖДЕНИЕ СДЕЛКИ!!! Продается трехкомнатная квартира в КИРПИЧНОМ доме напротив метро Фрунзенская!!! Комнаты изолированные, санузел совмещенный. В квартире заменена проводка, установлены новые радиаторы отопления, новые",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Нахимовский проспект, 73",
+        "price": 27,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1519290/add.154055767260612ce5f4c07/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1519290/add.15405577145773b25dfb784/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509594/add.154055778197967029816cb/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1507155/add.1540557718915c7add018ab/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/481255/add.15405577409114ea16bf5ad/app_snippet_small"
+        ],
+        "area": 92,
+        "rooms": "2",
+        "building": "ЖК «Versis», 22 этаж из 24",
+        "location": "Университет 21 мин.\n",
+        "description": "Номер лота 050718. АН \"WestPro Realty\". Продается просторная 2-х комнатная квартира с ПАНОРАМНЫМ ВИДОМ в жилом комплексе бизнес-класса Versis. Квартира в собственности !!! Комплекс расположен на пересечении улицы Вавилова, Нахимовского и",
+        "morgage": "Торг"
+    },
+    {
+        "address": "Улица Дружбы, 10/32",
+        "price": 14.9,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1101375/add.1540552879955021c25fd1f/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1581062/add.15405528953513113f4b702/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/481255/add.15405528978150813cbbdab/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1519290/add.15405529045347cfa4c9c4c/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1507155/add.15405529119282d001a53a7/app_snippet_small"
+        ],
+        "area": 70,
+        "rooms": "3",
+        "building": "1961 г., 2 этаж из 8",
+        "location": "Университет 14 мин.\n",
+        "description": "Продается 3-х комнатная квартира в доме Сталинской застройки в престижном районе Москвы в 2-х минутах ходьбы от метро Ломоносовский Проспект. Рядом с домом сквер, д/сад, поликлиника, во дворе гимназия. Тихое место. Квартира в хорошем состоянии, окна",
+        "morgage": ""
+    },
+    {
+        "address": "Мичуринский проспект, 21к2",
+        "price": 19.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1362743/add.15405480590587e1d00d456/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1244288/add.154054802934933fb38a13f/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/941841/add.1540548020645ddd0bb91cc/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1507155/add.1540548028316dbcc7bb5cc/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1572784/add.1540548025796fd1ce77ed0/app_snippet_small"
+        ],
+        "area": 74,
+        "rooms": "3",
+        "building": "2001 г., 10 этаж из 17",
+        "location": "Университет 20 мин.\n",
+        "description": "Прямая продажа. В собственности более трех лет. Собственник - 1 взрослый человек. В квартире сделан качественный ремонт. Металлическая входная дверь, окна - высококачественные трехкамерные стеклопакеты. На полу паркет и плитка. Большая гардеробная,",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "1-я Фрунзенская улица, 8",
+        "price": 13.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1101375/add.1540547450329f863e6a3d6/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1401210/add.1540547455160279c12750e/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1101375/add.15405474613258a70a1c43a/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1401210/add.154054746392669f262fbd4/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1511332/add.154054745970050efe0c194/app_snippet_small"
+        ],
+        "area": 44,
+        "rooms": "2",
+        "building": "1964 г., 9 этаж из 10",
+        "location": "Фрунзенская 6 мин.\n",
+        "description": "Двухкомнатная квартира. состояние квартиры - хорошее. аккуратная, чистая. большая застекленная лоджия. (см фото). В собственности более 5 лет. Договор купли-продажи. Один взрослый собственник. Без перепланировок. Ни кто не прописан. Свободная",
+        "morgage": ""
+    },
+    {
+        "address": "2-я Фрунзенская улица, 8",
+        "price": 229.72,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375352/offer.9104021188183383415.131260568118935855/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/879918/offer.9104021188183383415.131259715257451086/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/993463/offer.9104021188183383415.131258862395042796/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1362743/offer.9104021188183383415.131258010165246391/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/986237/offer.9104021188183383415.131257157328696689/app_snippet_small"
+        ],
+        "area": 152,
+        "rooms": "3",
+        "building": "ЖК «Андреевский», 2 этаж из 11",
+        "location": "Фрунзенская 8 мин.\n",
+        "description": "Лот №63758 Респектабельная квартира в парижском стиле площадью 152 кв.м. в ЖК \"Андреевский\". Квартира спланирована как кухня-столовая, гостиная, кабинет, спальня, 2 ванных комнаты, постирочная, великолепный балкон. Ремонт выполнен с применением",
+        "morgage": ""
+    },
+    {
+        "address": "Улица Косыгина, 19к1",
+        "price": 133.96,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/953680/offer.9104021188183417889.2087524461119406592/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/217934/offer.9104021188183417889.858645710259811096/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1391468/offer.9104021188183417889.858645762621604754/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/790313/offer.9104021188183417889.2087524461112941945/app_snippet_small"
+        ],
+        "area": 157,
+        "rooms": "3",
+        "building": "ЖК «Монолит», 2 этаж из 6",
+        "location": "Воробьёвы горы 18 мин.\n",
+        "description": "Лот №62296 На продажу выставлена квартира свободной планировки площадью 157 квадратных метров в знаменитом клубном доме - Монолит Плаза. Квартира расположена на 2 этаже жилого комплекса. Окна ориентированы на 2 стороны: во внутренний двор и на улицу",
+        "morgage": ""
+    },
+    {
+        "address": "Комсомольский проспект, 9А",
+        "price": 18.9,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1348547/offer.8407899773755989006.1935260264069591154/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1405199/offer.8407899773755989006.3973955138810185849/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509194/offer.8407899773755989006.3792881812398948559/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1469700/offer.8407899773755989006.1980686030254319037/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1245957/offer.8407899773755989006.5095023418916943722/app_snippet_small"
+        ],
+        "area": 37,
+        "rooms": "1",
+        "building": "ЖК «Николаевский дом», 4 этаж из 7",
+        "location": "Фрунзенская 10 мин.\n",
+        "description": "Современная резиденция в центре столицы! Продаются апартаменты в ЖК «Николаевский дом». Комплекс построен в рамках проекта реконструкции пятиэтажного здания 1962 года и сдан в эксплуатацию в 2012 году. Всего 500 метров от метро Парка культуры, 10",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Улица Вавилова, 75",
+        "price": 14,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1507155/add.30d3e1d5312529cbf3dfe854b0678174.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1513487/add.df1e9770d70dc06ea9d68e2c7a78c57a.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/402387/add.ace5683cbd64e08101d7152551341562.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1385959/add.803919c4ab3b5aeccc57b782d1fb96c7.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1356967/add.a1348d42a53180c555e5a1572a03528d.realty-api-vos/app_snippet_small"
+        ],
+        "area": 41,
+        "rooms": "2",
+        "building": "1970 г., 1 этаж из 17",
+        "location": "Университет 23 мин.\n",
+        "description": "Квартира со свежим дизайнерским ремонтом. Лоджия утеплена, шумоизолирована и совмещена с комнатой через большую столешницу. Везде энергоэффективные теплые полы - 3 регулятора. Потолки двухуровневые с диодной подсветкой. Очень приятный, тёплый",
+        "morgage": "Торг"
+    },
+    {
+        "address": "Улица Крупской, 13",
+        "price": 22.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1469700/offer.7622773487975474777.3998327257508612979/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1440465/offer.7622773487975474777.4609091352493349543/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1524743/offer.7622773487975474777.2365727991277748958/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1632446/offer.7622773487975474777.2339646069575440094/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1471924/offer.7622773487975474777.3174699678103281086/app_snippet_small"
+        ],
+        "area": 82,
+        "rooms": "3",
+        "building": "1959 г., 4 этаж из 8",
+        "location": "Университет 18 мин.\n",
+        "description": "Продаётся отличная трехкомнатная квартира в сталинском доме. Комнаты изолированные. Большая кухня 10 м2 с хорошим кухонным гарнитуром. В квартире хороший ремонт, можно заехать и жить. Пластиковые окна. Вид из окон во двор. Добротный дом с кирпичными",
+        "morgage": "Ипотека, торг"
+    },
+    {
+        "address": "Улица Крупской, 13",
+        "price": 22.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/936063/offer.6531791826715557057.5310643898615002304/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1504714/offer.6531791826715557057.4542428514633203507/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/475685/offer.6531791826715557057.1820412253584717630/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1542812/offer.6531791826715557057.811814671728475580/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1511332/offer.6531791826715557057.2031780838221724910/app_snippet_small"
+        ],
+        "area": 82,
+        "rooms": "3",
+        "building": "1959 г., 4 этаж из 8",
+        "location": "Университет 18 мин.\n",
+        "description": "",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Проспект Вернадского, 29к1",
+        "price": 17.3,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1507155/add.e8601eeb9ea8afc6df1c62ab67f63804.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1524743/add.6e0ff15af58de020d914a7a9d8075930.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/941841/add.9975bb7080b992ba13a1a0e8908f832a.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1405199/add.ca38f0f54c46e706a23f8423c14d6cac.realty-api-vos/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509194/add.746dd0e886f774388636d317f103edb4.realty-api-vos/app_snippet_small"
+        ],
+        "area": 72,
+        "rooms": "3",
+        "building": "2015 г., 2 этаж из 24",
+        "location": "Университет 9 мин.\n",
+        "description": "Пpедлoжeние oт сoбственника. Прoдаeтся квapтиpa 72.1 кв. м. нa 2 этaжe в нoвoм в монолитно-кирпичном доме (поcтpоeн в 2014г.) c трeмя cкoроcтными лифтaми в 13 минутax xoдьбы от м. Пpоспeкт Bернадскогo и 20 мин. от м. Унивepситeт. Лучшeе cоoтнoшeниe",
+        "morgage": ""
+    },
+    {
+        "address": "Ленинский проспект, 57",
+        "price": 21.8,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1542812/offer.6531791826715557832.5486268918149564938/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1401210/offer.6531791826715557832.3686760681606348367/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1487183/offer.6531791826715557832.5948497587251435116/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219361/offer.6531791826715557832.2098206224844464928/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1327161/offer.6531791826715557832.2653773555314083855/app_snippet_small"
+        ],
+        "area": 110,
+        "rooms": "4",
+        "building": "1960 г., 3 этаж из 8",
+        "location": "Университет 15 мин.\n",
+        "description": "",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Ленинский проспект, 67к2",
+        "price": 38.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1391468/add.15404797876405656cfec0c/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1401210/add.1540479787671e7bc3d38e3/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1362743/add.1540479787768ccf30a2353/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1513487/add.1540479787719912ec342c8/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1509194/add.15404797879259eb67410d4/app_snippet_small"
+        ],
+        "area": 163,
+        "rooms": "4",
+        "building": "2009 г., 11 этаж из 18",
+        "location": "Университет 20 мин.\n",
+        "description": "'ПРОДАМ БОЛЬШУЮ КВАРТИРУ!!!10 мин.пешком до м.Университет, 15 мин.пешком до м.Академическая ул.Ленинский проспект, д.67, кор.2, 11/18 этажного монолитного дома, общ.площадь 163м2 в ЖК \"Университетский\". Комплекс расположен в престижном районе Москвы,",
+        "morgage": "Ипотека, торг"
+    },
+    {
+        "address": "Улица Удальцова, 4",
+        "price": 8.4,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1380291/add.1540478963808cdf21041f5/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/941841/add.154047896650504bfc321c9/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/402387/add.1540478969075bb8259c4e3/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1401210/add.15404789718280dce2f836f/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1469700/add.1540478973754b50b56b2d8/app_snippet_small"
+        ],
+        "area": 48,
+        "rooms": "2",
+        "building": "1967 г., 4 этаж из 10",
+        "location": "Университет 19 мин.\n",
+        "description": "Продаем 2 к.кв в одном из самых престижных районов г. Москвы, в доме ЖСК \"Союз\". Дом после кап.ремонта (фасад, подъезд, лифты), первые 2 этажа- стоматология, в подъезде 2 лифта. Квартира светлая и добрая, комнаты изол., в кухне и в маленькой комнате",
+        "morgage": "Ипотека, торг"
+    },
+    {
+        "address": "Усачёва улица, 2с1",
+        "price": 255.97,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1380291/offer.403109602727962467.5716171601484881124/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1219361/offer.403109602727962467.2635346335463734381/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/934334/offer.403109602727962467.8221391362124733830/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1437840/offer.403109602727962467.5698141629750495943/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1507155/offer.403109602727962467.5288208238636526854/app_snippet_small"
+        ],
+        "area": 200,
+        "rooms": "4",
+        "building": "ЖК «Фьюжн парк», 8 этаж из 10",
+        "location": "Фрунзенская 7 мин.\n",
+        "description": "Сотрудничаем с Компаниями и риэлторами. Делимся комиссией. Предложение в ЖК \"Фьжн Парк\"! Продается 4-комнатная квартира, ул. Усачева д 2 стр 3, 8/10 мон. дома, 200/135/22. В квартире выполнен высококачественный дизайнерский ремонт в английском стиле,",
+        "morgage": "Ипотека"
+    },
+    {
+        "address": "Мичуринский проспект, 20",
+        "price": 9.5,
+        "images": [
+            "https://avatars.mds.yandex.net/get-realty/1375430/add.15404705447308394a6bddb/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1365917/add.1540470545874cb69cc70fe/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/475685/add.1540470547930df00213486/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1516922/add.15404705541536800c4f560/app_snippet_small",
+            "https://avatars.mds.yandex.net/get-realty/1365917/add.154047054868168fe1e4ff2/app_snippet_small"
+        ],
+        "area": 47,
+        "rooms": "2",
+        "building": "1962 г., 8 этаж из 9",
+        "location": "Университет 18 мин.\n",
+        "description": "Москва, Мичуринский проспект, 20. Двухкомнатная, Этаж 8, этажность 9, общая 47 м, комнаты смежные, жилая 33,3, СУС, балкон застеклен, 2 собственника, приватизация 2001 год.",
+        "morgage": ""
+    }
+]

@@ -2,6 +2,11 @@ body {
   font-family: sans-serif;
 }
 
+.FlatsList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .Flat {
   width: 200px;
   border-radius: 8px;
@@ -9,6 +14,7 @@ body {
   box-shadow: 0 3px 8px 0 rgba(0, 40, 100, 0.1),
     0 1px 1px 0 rgba(0, 0, 50, 0.05);
   margin-bottom: 20px;
+  margin-right: 20px;
 }
 
 .Flat__info {

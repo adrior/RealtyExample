@@ -22,7 +22,9 @@ function renderFlats(data) {
               <div class="Flat__price">${(flat.price * 1e6).toLocaleString(
                 "RU-ru"
               )} ₽</div>
-              <div class="Flat__params">${flat.rooms}-к, ${flat.area} м²</div>
+              <div class="Flat__params">${
+                isNaN(flat.rooms * 1) ? flat.rooms : flat.rooms + "-к"
+              }, ${flat.area} м²</div>
               <div class="Flat__address">${flat.address}</div>
             </div>
           </div>

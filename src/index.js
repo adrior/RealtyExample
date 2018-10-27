@@ -1,4 +1,4 @@
-fetch("/data-3.json")
+fetch("data/data-1.json")
   .then(response => response.json())
   .then(json => {
     let html = renderFlats(json);
